@@ -1,0 +1,93 @@
+﻿OBJECTID,RT_NAME,RT_TYPE,RT_STS,RT_NMBR,SHAPE_Length
+1,Vredehoek - Gardens - Civic Centre (clockwise),Feeder Route,Active,101,6441.56580037536
+2,Vredehoek - Gardens - Civic Centre (clockwise),Feeder Route,Active,101,5037.22482457359
+3,Salt River Rail - Walmer Estate - Civic Centre,Feeder Route,Active,102,8043.37594147358
+4,Salt River Rail - Walmer Estate - Civic Centre,Feeder Route,Active,102,8844.82425218148
+5,Oranjezicht - Gardens - Civic Centre,Feeder Route,Active,103,6626.6235026928
+6,Oranjezicht - Gardens - Civic Centre,Feeder Route,Active,103,5969.20549132417
+7,Sea Point - Waterfront - Civic Centre,Feeder Route,Active,104,11926.6945186421
+8,Sea Point - Waterfront - Civic Centre,Feeder Route,Active,104,12259.6533349227
+9,Sea Point - Fresnaye - Civic Centre,Feeder Route,Active,105,8096.28381945143
+10,Sea Point - Fresnaye - Civic Centre,Feeder Route,Active,105,7992.8920003984
+11,Camps Bay (clockwise) - Civic Centre,Feeder Route,Active,106,9685.174588997
+12,Camps Bay (clockwise) - Civic Centre,Feeder Route,Active,106,12934.9929155637
+13,Camps Bay (anticlockwise) -  Civic Centre,Feeder Route,Active,107,11306.5836004225
+14,Camps Bay (anticlockwise) -  Civic Centre,Feeder Route,Active,107,9979.12633189945
+15,Hangberg - Hout Bay Harbour - Sea Point - Adderley,Feeder Route,Active,108,29879.9836994856
+16,Hangberg - Hout Bay Harbour - Sea Point - Adderley,Feeder Route,Active,108,29894.4988159903
+17,Hout Bay Beach - Imizamo Yethu - Sea Point - Adderley,Feeder Route,Active,109,27678.7903499264
+18,Hout Bay Beach - Imizamo Yethu - Sea Point - Adderley,Feeder Route,Active,109,27647.108513012
+19,Vredehoek - Gardens - Civic Centre (anti-clockwise),Feeder Route,Active,111,5436.38043495767
+20,Vredehoek - Gardens - Civic Centre (anti-clockwise),Feeder Route,Active,111,5917.59576030401
+21,Upper Kloof Street - Adderley - Waterfront,Feeder Route,Active,113,8161.21993468931
+22,Upper Kloof Street - Adderley - Waterfront,Feeder Route,Active,113,7814.7490366399
+23,Sea Point - Civic Centre,Feeder Route,Active,114,7712.59678658217
+24,Sea Point - Civic Centre,Feeder Route,Active,114,7860.62305383038
+25,Sea Point - Grand Parade,Feeder Route,Active,115,8124.74877632834
+26,Sea Point - Grand Parade,Feeder Route,Active,115,7593.05488212129
+27,Parklands - Table View - Marine Circle,Feeder Route,Active,214a,15139.0305449166
+28,Parklands - Table View - Marine Circle,Feeder Route,Active,214a,16037.372486331
+29,Table View - Melkbosstrand - Melkbosch Village,Feeder Route,Active,214b,17076.318714293
+30,Table View - Melkbosstrand - Melkbosch Village,Feeder Route,Active,214b,17094.1795345777
+31,Table View - Melkbosstrand - Duynefontein,Feeder Route,Active,214c,15681.1020810472
+32,Table View - Melkbosstrand - Duynefontein,Feeder Route,Active,214c,33752.2170278888
+33,Sunningdale - Gie Road - Wood,Feeder Route,Active,215,12045.2278912996
+34,Sunningdale - Gie Road - Wood,Feeder Route,Active,215,9332.68837409541
+35,Sunningdale - Wood Drive - Wood,Feeder Route,Active,216,6290.90469119529
+36,Sunningdale - Wood Drive - Wood,Feeder Route,Active,216,6302.54730646024
+37,Sunningdale - West Beach - Table View - Sunningdale (anticlockwise),Feeder Route,Active,223,11455.816771565
+38,Atlantis Industria East (anticlockwise) - Atlantis,Feeder Route,Active,231,10769.7843643689
+39,Atlantis Industria West - Protea Park - Avondale - Atlantis,Feeder Route,Active,232,10457.4552197101
+40,Atlantis Industria West - Protea Park - Avondale - Atlantis,Feeder Route,Active,232,9870.60279689244
+41,Saxonsea - Atlantis,Feeder Route,Active,233,3954.00440901726
+42,Saxonsea - Atlantis,Feeder Route,Active,233,3288.9849458765
+43,Mamre (Crown) - Atlantis,Feeder Route,Active,234,10814.3083700285
+44,Mamre (Crown) - Atlantis,Feeder Route,Active,234,9702.45631083336
+45,Pella - Atlantis,Feeder Route,Active,235,7927.07765607703
+46,Pella - Atlantis,Feeder Route,Active,235,9377.21004460243
+47,Sherwood - Atlantis,Feeder Route,Active,236,2379.0721120833
+48,Avondale - Protea Park - Atlantis Industria West - Atlantis,Feeder Route,Active,244,12902.4879649067
+49,Avondale - Protea Park - Atlantis Industria West - Atlantis,Feeder Route,Active,244,12272.6313662727
+50,Saxonsea - Goede Hoop - Atlantis,Feeder Route,Active,245,5084.01648593795
+51,Saxonsea - Goede Hoop - Atlantis,Feeder Route,Active,245,4400.71204852136
+52,Mamre (Frans) - Atlantis,Feeder Route,Active,246,13410.3268568884
+53,Mamre (Frans) - Atlantis,Feeder Route,Active,246,11212.0224454178
+54,Summer Greens - Woodbridge Island,Feeder Route,Active,260,7043.4685202482
+55,Summer Greens - Woodbridge Island,Feeder Route,Active,260,7113.12524527318
+56,Century City Rail - Omuramba - Salt River - Adderley,Feeder Route,Active,261,25964.9250245688
+57,Century City Rail - Omuramba - Salt River - Adderley,Feeder Route,Active,261,28112.5351387107
+58,Summer Greens - Century City - Woodbridge Island,Feeder Route,Active,262,9908.66400525845
+59,Summer Greens - Century City - Woodbridge Island,Feeder Route,Active,262,10039.9225808403
+60,Airport - Civic Centre,Direct Route,Active,A01,23779.2153890007
+61,Khayelitsha East - Civic Centre,Direct Route,Active,D01,43224.4198516654
+62,Khayelitsha West - Civic Centre,Direct Route,Active,D02,42466.8183172444
+63,Mitchells Plain East - Civic Centre,Direct Route,Active,D03,37204.5610829824
+64,Mitchells Plain East - Civic Centre,Direct Route,Active,D03,38436.2797686734
+65,Kapteinsklip - Mitchells Plain Town Centre - Civic Centre,Direct Route,Active,D04,43554.3466454446
+66,Kapteinsklip - Mitchells Plain Town Centre - Civic Centre,Direct Route,Active,D04,42291.3712055853
+67,Dunoon - Parklands - Table View - Civic Centre,Direct Route,Active,D05,33888.9248265248
+68,Dunoon - Parklands - Table View - Civic Centre,Direct Route,Active,D05,34168.2258820909
+69,Dunoon - Table View - Civic Centre - Waterfront,Trunk Route,Active,T01,32732.347363086
+70,Dunoon - Table View - Civic Centre - Waterfront,Trunk Route,Active,T01,32008.9691897671
+71,Dunoon - Omuramba - Century City,Trunk Route,Active,T04,14736.2331517394
+72,Dunoon - Omuramba - Century City,Trunk Route,Active,T04,15319.211431164
+73,Dunoon - Table View - Civic Centre - Waterfront - Express,Trunk Route,Active,T01X,32198.4114343284
+74,Dunoon - Table View - Civic Centre - Waterfront - Express,Trunk Route,Active,T01X,32377.9490861365
+75,Atlantis - Melkbosstrand - Table View - Century City,Trunk Route,Active,T03,60426.5420296113
+76,Atlantis - Melkbosstrand - Table View - Century City,Trunk Route,Active,T03,57791.6770821563
+77,Hangberg - Imizamo Yethu - Sea Point - Adderley,Feeder Route,Active,118,31802.3822656955
+78,Hangberg - Imizamo Yethu - Sea Point - Adderley,Feeder Route,Active,118,31058.5658058989
+79,Sherwood - Atlantis,Feeder Route,Active,236,6389.90856930047
+80,Robinvale - Atlantis,Feeder Route,Active,237,3196.91765394339
+81,Robinvale - Atlantis,Feeder Route,Active,237,3221.02360712697
+82,Civic Centre - Table View - Atlantis,Trunk Route,Active,T02,60535.5888148911
+83,Civic Centre - Table View - Atlantis,Trunk Route,Active,T02,75729.8188692086
+84,Atlantis - Table View - Civic Centre,Trunk Route,Active,T02x,60450.8740255991
+85,Atlantis - Table View - Civic Centre,Trunk Route,Active,T02x,60547.1346134916
+86,Atlantis Industria East (anticlockwise) - Atlantis,Feeder Route,Active,231,10259.4692967677
+87,Dunoon - Montague Gardens - Century City,Direct Route,Active,D08,14542.6095566902
+88,Dunoon - Montague Gardens - Century City,Direct Route,Active,D08,14391.0913226668
+89,Sunningdale - Parklands - Table View - Sunningdale (clockwise),Feeder Route,Active,213,11706.1688943686
+90,Airport - Civic Centre,Direct Route,Active,A01,24104.9335963548
+91,Khayelitsha East - Civic Centre,Direct Route,Active,D01,43561.716335642
+92,Khayelitsha West - Civic Centre,Direct Route,Active,D02,42312.9262578893
