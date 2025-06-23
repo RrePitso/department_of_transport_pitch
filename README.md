@@ -1,6 +1,8 @@
 # 🚌 Public Transport AFC Anomaly Detection Dashboard
 A Streamlit-based interactive dashboard that simulates and detects anomalies in public transport AFC (Automated Fare Collection) transaction data. Inspired by the MyCiTi and Rea Vaya systems in South Africa, this tool showcases how data science can uncover operational issues, revenue leakage, and system inefficiencies in real-time transit fare systems.
 
+🚀Live Dashboard
+https://departmentoftransportpitch.streamlit.app/
 
 🚀 Features
 Synthetic AFC Transaction Simulation
